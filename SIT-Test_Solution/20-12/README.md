@@ -17,7 +17,7 @@
 	1. 단순 Greedy Algorithm with Sorting입니다.
 	1. O(n log n)을 써야하며 Greedy 알고리즘을 응용할 수 있는지 확인하는 문제입니다.
 1. 상자넣기 (Dynamic Programming, LIS)
-	1. Longest Increasing Subsequence 라는 알고리즘의 기본적인 형태입니다([문제](boj.kr/11053).
+	1. Longest Increasing Subsequence 라는 알고리즘의 기본적인 형태입니다([문제](boj.kr/11053)).
 	1. LIS는 기초적인 DP 응용분야이며 Silver 1, 2 정도의 난이도를 가집니다.
 	1. 저의 출제의도는 LIS를 알고있는지를 묻는 문제로 낸 것이 아닌, Silver 1, 2 정도의 DP를 풀 수 있는지 확인하려는 것이었습니다. LIS를 몰라도 충분히 생각할 수 있을 것이라 생각합니다.
 1. 합분해 (Dynamic Programming)
