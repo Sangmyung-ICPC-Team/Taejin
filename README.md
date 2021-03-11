@@ -28,6 +28,8 @@ Sangmyung ICPC Team 1기 - 소프트웨어학과 18학번 안태진
 ## Goal Progress (Baekjoon Gold 등급 50문제)
 - 2021.02.26 ~ 2021.03.04 2 Solve
   - Gold 0 Solve, (00/50) (00%)
+- 2021.03.05 ~ 2021.03.11 3 Solve
+  - Gold 0 Solve, (00/50) (00%)
 
 
 # Career
