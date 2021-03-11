@@ -16,26 +16,27 @@ int main(void) {
 	int n, m;
 	cin >> n >> m;
 
-	map<string, string> memberData;
-	map<string, vector<string>> teamData;
+	map<string, string> memberData; // 각 Member의 Team 정보
+	map<string, vector<string>> teamData; // 각 Team의 Member List
 	for ( int i = 0; i < n; i++ ) {
-		string team;
+		string team; // Team name
 		cin >> team;
 
 		int memberNumber;
 		cin >> memberNumber;
 
+		// Team에 대한 정보가 하나도 없기 때문에, 그 Team에 대한 list 생성해줌
+		teamData[team] = vector<string> ();
 		for ( int j = 0; j < memberNumber; j++ ) {
-			string member;
+			string member; // Member name
 			cin >> member;
 
-			if ( teamData.find( team ) == teamData.end() )
-				teamData[team] = vector<string> ();
-			teamData[team].push_back( member );
+			teamData[team].push_back( member ); // Team에 member 추가
 
-			memberData[member] = team;
+			memberData[member] = team; // 그 member의 Team 정보 추가
 		}
 
+		// Member List를 출력할 때 사전순으로 출력해야함
 		sort( teamData[team].begin(), teamData[team].end() );
 	}
 
@@ -46,12 +47,13 @@ int main(void) {
 		int quiz;
 		cin >> quiz;
 
-		if ( quiz == 0 ) {
+		// 0일 땐 Member List 출력
+		if ( quiz == 0 )
 			for ( string& name : teamData[name] )
 				cout << name << '\n';
-		} else {
+		// 1일 땐 그 Member의 Team 정보 출력
+		else
 			cout << memberData[name] << '\n';
-		}
 	}
 
 	return 0;
