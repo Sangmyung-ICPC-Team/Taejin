@@ -1,8 +1,6 @@
 # Taejin
 Sangmyung ICPC Team 1기 - 소프트웨어학과 18학번 안태진
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taejin1221)](https://solved.ac/taejin1221)
 # 2021 Winter Goal
 ## Progress
 - 2021.01.08 ~ 2021.01.14 15 Solve
