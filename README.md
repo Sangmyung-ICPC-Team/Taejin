@@ -32,6 +32,8 @@ Sangmyung ICPC Team 1기 - 소프트웨어학과 18학번 안태진
   - Medium 4 Solve, (04/50) (04%)
 - 2021.03.19 ~ 2021.03.25 3 Solve
   - Medium 2 Solve, (06/50) (06%)
+- 2021.03.26 ~ 2021.04.01 4 Solve
+  - Medium 1, Gold 2 Solve (09/50) (09%)
 
 
 # Career
