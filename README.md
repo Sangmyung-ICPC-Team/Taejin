@@ -25,23 +25,23 @@ Sangmyung ICPC Team 1기 - 소프트웨어학과 18학번 안태진
 # 2021 Spring Goal
 ## Goal Progress (Baekjoon Gold 및 LeetCode Medium 등급 50문제)
 - 2021.02.26 ~ 2021.03.04 2 Solve
-  - Gold 0 Solve, (00/50) (00%)
+  - Gold 0 Solve (00/50) (00%)
 - 2021.03.05 ~ 2021.03.11 3 Solve
-  - Gold 0 Solve, (00/50) (00%)
+  - Gold 0 Solve (00/50) (00%)
 - 2021.03.12 ~ 2021.03.18 5 Solve
-  - Medium 4 Solve, (04/50) (04%)
+  - Medium 4 Solve (04/50) (08%)
 - 2021.03.19 ~ 2021.03.25 3 Solve
-  - Medium 2 Solve, (06/50) (06%)
+  - Medium 2 Solve (06/50) (12%)
 - 2021.03.26 ~ 2021.04.01 4 Solve
-  - Medium 1, Gold 2 Solve (09/50) (09%)
+  - Medium 1, Gold 2 Solve (09/50) (18%)
 - 2021.04.02 ~ 2021.04.08 4 Solve
-  - Medium 1, Gold 2 Solve (12/50) (12%)
+  - Medium 1, Gold 2 Solve (12/50) (24%)
 - 2021.04.09 ~ 2021.04.15 8 Solve
-  - Medium 3, Gold 2 Solve (17/50) (17%)
+  - Medium 3, Gold 2 Solve (17/50) (34%)
 - 2021.04.16 ~ 2021.04.22 1 Solve
-  - Gold 1 Solve (18/50) (18%)
+  - Gold 1 Solve (18/50) (36%)
 - 2021.04.23 ~ 2021.04.29 6 Solve
-  - Gold 0 Solve (18/50) (18%)
+  - Gold 0 Solve (18/50) (36%)
 - 2021.04.30 ~ 2021.05.06 2 Solve
   - Gold 2 Solve (20/50) (40%)
 
