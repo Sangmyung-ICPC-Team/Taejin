@@ -1,5 +1,4 @@
-// Baekjoon05014_Startlink.cpp
-// https://www.acmicpc.net/problem/5014
+// Baekjoon5014.cpp
 #include <iostream>
 
 #include <queue>
@@ -7,16 +6,15 @@
 using namespace std;
 
 int main(void) {
-	int limit, start, target, up, down;
-	cin >> limit >> start >> target >> up >> down;
+	int maxFloor, startFloor, target, up, down;
+	cin >> maxFloor >> startFloor >> target >> up >> down;
 
-	queue<pair<int, int>> q;
 	bool visited[1'000'001] = { false, };
-
-	q.push( { start, 0 } );
-	visited[start] = true;
+	visited[startFloor] = true;
 
 	int ans = -1;
+	queue<pair<int, int>> q;
+	q.push( { startFloor, 0 } );
 	while ( !q.empty() ) {
 		pair<int, int> curr = q.front(); q.pop();
 		if ( curr.first == target ) {
@@ -24,14 +22,13 @@ int main(void) {
 			break;
 		}
 
-		int upFloor = curr.first + up;
-		if ( upFloor <= limit && !visited[upFloor] ) {
+		int upFloor = curr.first + up, downFloor = curr.first - down;
+		if ( upFloor <= maxFloor && !visited[upFloor] ) {
 			visited[upFloor] = true;
 			q.push( { upFloor, curr.second + 1 } );
 		}
 
-		int downFloor = curr.first - down;
-		if ( downFloor >= 1 && !visited[downFloor] ) {
+		if ( 0 < downFloor && !visited[downFloor] ) {
 			visited[downFloor] = true;
 			q.push( { downFloor, curr.second + 1 } );
 		}
