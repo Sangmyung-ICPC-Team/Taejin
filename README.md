@@ -1,6 +1,10 @@
 # Taejin
 Sangmyung ICPC Team 1기 - 소프트웨어학과 18학번 안태진
 
+[![taejin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wrathlion&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 # 2021 Winter Goal
 ## Progress
 - 2021.01.08 ~ 2021.01.14 15 Solve
