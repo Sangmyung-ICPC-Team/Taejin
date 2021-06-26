@@ -1,7 +1,7 @@
 # Taejin
 Sangmyung ICPC Team 1기 - 소프트웨어학과 18학번 안태진
 
-[![taejin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wrathlion&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![taejin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wrathlion&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
