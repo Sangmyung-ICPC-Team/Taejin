@@ -57,6 +57,12 @@ Sangmyung ICPC Team 1기 - 소프트웨어학과 18학번 안태진
 - 2021.05.28 ~ 2021.06.03 5 Solve
   - Medium 1, Gold 2 Solve (28/50) (56%)
 
+# 2021 Summer Goal
+Goal: Baekjoon Gold 등급, LeetCode Hard 등급 이상 50문제 풀기
+## Goal Progress
+- 2021.06.22 ~ 2021.06.28 11 Solve
+  - Hard 1 Solve (1/50) (2%)
+
 
 # Career
 | Challenge | Date     | Contents            | Team     |
