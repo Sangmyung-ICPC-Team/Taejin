@@ -62,6 +62,8 @@ Goal: Baekjoon Gold 등급, LeetCode Hard 등급 이상 50문제 풀기
 ## Goal Progress
 - 2021.06.22 ~ 2021.06.28 11 Solve
   - Hard 1 Solve (1/50) (2%)
+- 2021.06.29 ~ 2021.07.05 12 Solve
+  - Gold 2, Platinum 1, Hard 1 Solve (5/50) (10%)
 
 
 # Career
