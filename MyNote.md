@@ -3,8 +3,12 @@
 
 대회 전에 꼭 그 문제들을 풀어보며 잘 외웠는지 확인하자!
 
-# TODO
+# TO CODE
 - Segment Tree
 - Maximum Flow
 - Bipartite Matching
 - Strongly Connected Component
+
+# TO STUDY
+- Minimum Cost Maximum Flow
+- Segment Tree with Lazay Propagation
