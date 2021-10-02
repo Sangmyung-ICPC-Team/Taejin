@@ -78,9 +78,8 @@ Goal: Gold, Platinum, Hard 이상 50
 - 2021.09.10 ~ 2021.09.16 12 Solve
   - Gold 4, Platinum 1, Hard 1 Solve (6/) (%)
 - 2021.09.17 ~ 2021.09.23 5 Solve
-  - Gold 2, Platinum 1, Hard 1 Solve (10/) (%)
-
-
+  - Gold 2, Platinum 1, Hard 1 Solve (
+- 2021.09.24 ~ 2021.09.30 7 Solve
 # Career
 | Challenge | Date     | Contents            | Team     |
 |:---------:|:--------:|:-------------------:|:--------:|
