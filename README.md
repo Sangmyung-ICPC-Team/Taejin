@@ -73,14 +73,16 @@ Goal: Baekjoon Gold 등급, LeetCode Hard 등급 이상 50문제 풀기
   - Gold 7, Platinum 2, Hard 3 Solve (31/50) (62%)
 
 # 2021 Fall Goal
-Goal: Gold, Platinum, Hard 이상 50 
+Goal: Gold, Platinum, Hard 이상 50문제 풀기
+
 ## Goal Progress
 - 2021.09.10 ~ 2021.09.16 12 Solve
   - Gold 4, Platinum 1, Hard 1 Solve (6/50) (12%)
 - 2021.09.17 ~ 2021.09.23 5 Solve
-  - Gold 2, Platinum 1, Hard 1 Solve (10/50)
+  - Gold 2, Platinum 1, Hard 1 Solve (10/50) (20%)
 - 2021.09.24 ~ 2021.09.30 7 Solve
-  -  Gold 2, Platinum 3 (15/50)
+  - Gold 2, Platinum 3 (15/50) (30%)
+
 # Career
 | Challenge | Date     | Contents            | Team     |
 |:---------:|:--------:|:-------------------:|:--------:|
