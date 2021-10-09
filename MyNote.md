@@ -12,3 +12,4 @@
 # TO STUDY
 - Minimum Cost Maximum Flow
 - Segment Tree with Lazay Propagation
+- ㄹㅗㄷㅡㅁㅐㅂ ㅁㅏㄴㄷㅡㄹㄱㅣ
