@@ -84,6 +84,8 @@ Goal: Gold, Platinum, Hard 이상 50문제 풀기
   - Gold 2, Platinum 3 (15/50) (30%)
 - 2021.10.01 ~ 2021.10.07 5 Solve
   - Gold 1 (16/50) (32%)
+- 2021.10.08 ~ 2021.10.28 26 Solve
+  - Gold 11, Platinum 4 (31/50) (62%)
 
 # Career
 | Challenge | Date     | Contents            | Team     |
